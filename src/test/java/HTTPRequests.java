@@ -2,6 +2,7 @@
 	given() to construct api (content type, set cookies,add auth, add param, set headers etc)
 	when()- specify request type (get,post,put,delete)
 	then()- validate status code, extract response,extract headers cookies & response body
+ new line..
 	*/
 
 import org.testng.annotations.Test;   
